@@ -1,0 +1,35 @@
+
+1. sending alert messages to the user for controlling and interacting with your environment:
+
+https://www.tinkercad.com/things/7pbQmGd3aGu-sending-alert-messages-to-the-user-?sharecode=vyEVLVaubO38qoy5QVcmYn3jWArL-g-YyUt57L37MlY
+
+
+2. an Arduino/ Raspberry pi program for interfacing with PIR sensor Experiment:
+
+https://www.tinkercad.com/things/4iAtLAkauU8-pir-sensor-experiment?sharecode=MoyQK_6RdjaGlEwbR5s3Z2RMu8OglCGSIqwvXllF-FY
+
+
+3. program for developing an IIoT application for energy monitoring and optimization:
+
+https://www.tinkercad.com/things/8l01dnGZLPK-energy-monitoring-and-optimization?sharecode=Ot_uUYGPZ-gQfO4f3fJJFTfZJatGNImLPunHuhuXMes
+
+
+4. program for implementing security measures in an IIoT system:
+
+https://www.tinkercad.com/things/c7hVXoFr9XI-implementing-security-measures-in-an-iiot-system?sharecode=onUmLxSVbRzYGGia3b4Txj3zh_g0nvgUsL1V1nN8w_M
+
+
+5. program for sending sensor data to the cloud and storing it in a database:
+
+https://www.tinkercad.com/things/6NUyuQs7Qjq-sending-sensor-data-to-the-cloud-and-storing-it-in-a-database?sharecode=Q1mTX6RiG4nybqfcQrtnO4x05ijx_vwOwQOBxNe_7_M
+
+
+6. program for building a small-scale IIoT network using wireless communication protocols:
+
+https://www.tinkercad.com/things/jOzciBxFWja-building-a-small-scale-iiot-network?sharecode=oqkOpwEF4VHZodHmSVsyR8P0hE9JQJwd3WX885EjVH4
+
+
+
+
+
+
